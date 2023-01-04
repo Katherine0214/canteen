@@ -4,9 +4,11 @@
 >用于测试的Excel表格暂没上传，可见本地。
 
 ### 🛠️ 一、进入环境（本地已配置好）
+---
 运行```conda activate env_canteen```
 
 ### 👾 二、SH（工作日午餐）  
+---
 ### ```oneMonth_SH.py```
 #### 输入： 
 
@@ -24,6 +26,7 @@
 ```工号-餐补 对应的dict，并保存为 “SH(ID-Fee).xlsx” ```  (当程序中看到打印出“Finshed”即为完成)
 
 ### 🎲 三、SZ（工作日午餐+加班晚餐+节假日餐）   
+---
 ### ```oneMonth_SZ_WorkOffDay.py```
 #### 输入： 
 
